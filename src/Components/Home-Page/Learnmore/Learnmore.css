@@ -1,0 +1,43 @@
+.learnmore{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding-top: 60px;
+}
+.learnmore-left{
+    height: 400px;
+    width: 50%;
+    padding: 100px 30px;
+}
+.learnmore-left h1{
+    padding-bottom: 30px;
+    font-size: 48px;
+}
+.learnmore-left p{
+    padding-bottom: 30px;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.432);
+}
+.learnmore-left a button{
+    padding: 20px;
+    width: 150px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    background-color: black;
+    color: aliceblue;
+}
+.learnmore-left a{
+    text-decoration: none;
+}
+
+.learnmore-right{
+    height: 600px;
+    width: 50%;
+
+}
+.learnmore-right img{
+    width: 100%;
+}

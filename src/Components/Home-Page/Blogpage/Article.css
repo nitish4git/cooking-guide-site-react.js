@@ -1,0 +1,43 @@
+.article-container{
+    width: 80%;
+    margin:70px auto;
+   display: flex;
+
+}
+.article-image{
+    border-radius: 20px;
+    padding: 15px;
+}
+.article-info{
+    width: 50%;
+    margin: 20px 30px;
+
+}
+.article-info h1  {
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+.article-info p{
+    margin-bottom: 30px;
+    font-size: 16px;
+
+}
+.article-info h4{
+    font-size: 16px;
+
+}
+
+.tutor-info {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 20px;
+}
+.tutor-info p{
+    margin: auto;
+
+}
+.tutor-info img{
+    height: 50px;
+    width: 50px;
+}

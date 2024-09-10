@@ -1,0 +1,40 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+    padding-top: 100px;
+}
+.footer-right ul li{
+    list-style: none;
+    padding: 0px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.footer-line{
+    height: 1px;
+    width: 80%;
+    background: rgba(73, 72, 72, 0.358); 
+    margin: 30px auto;
+    
+}
+.footer-copyright{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 40px;
+}
+.footer-copyright ul{
+     margin-left: 400px;
+     list-style: none;
+
+}
+
+.footer-copyright ul li{
+    margin: 15px 20px;
+    cursor: pointer;
+    height: 20px;
+    width: 20px;
+
+}
